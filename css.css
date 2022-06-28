@@ -60,6 +60,7 @@ header nav ul{
     margin: 0;
     display: flex;
     padding-right: 6em;
+
 }
 header nav ul li a {
     padding: 2rem;
