@@ -85,7 +85,7 @@ body {
 }
 
 #index main {
-    background-image: url(./Bilder/Bild\ 1.jpg);
+    background-image: url(./Bilder/Bild_1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 50rem;
@@ -97,11 +97,12 @@ body {
 }
 
 main {
-    padding-left: 3rem;
+
     background-attachment: fixed;
 }
 
 main div {
+    margin-left: 3rem;
     font-size: 7rem;
     font-family:'Roboto', sans-serif;
     align-content: center;
@@ -317,4 +318,23 @@ form textarea {
 .carousel-inner{
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.card-text  {
+    font-size: 1rem !important;
+
+}
+.cardtitle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 10%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.Videoss {
+display: flex;
+    justify-content: center;
+
 }
