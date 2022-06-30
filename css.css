@@ -84,6 +84,11 @@ main {
     flex-grow: 1;
 }
 
+.tttitel div {
+    font-size: 12.5rem;
+}
+
+
 body {
     margin: 0;
     background-color: #CBE5E9;
@@ -93,7 +98,7 @@ body {
     background-image: url("Bilder/Bild 1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 50rem;
+    height: 65rem;
 }
 
 #index main div {
@@ -118,12 +123,14 @@ main div {
 
 
 .box1 {
-    height: 30rem;
     width: 43%;
     background-color: #fff;
     padding: 1rem;
     border: black 1px solid;
 
+}
+.box1 h1 {
+    padding-top: 1rem;
 }
 
 
@@ -314,6 +321,7 @@ form textarea {
 .carousel-inner{
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: -15px;
 }
 
 .card-text  {
