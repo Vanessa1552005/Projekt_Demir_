@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddbdd1c7-d455-41c7-94d0-7e1c6a52f53f" name="Changes" comment="V5">
+      <change afterPath="$PROJECT_DIR$/Bilder/Bild 10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bilder/Bild 11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bilder/Bild 12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beitraege.html" beforeDir="false" afterPath="$PROJECT_DIR$/beitraege.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakte.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakte.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BCz27U9lNv65X8Af7PmDd72NfC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/_DATEN/Berufsschule/Modul 287 - Websites mit CSS gestalten/LB02&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_DATEN\Berufsschule\Modul 287 - Websites mit CSS gestalten\Projekt_Demir_" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_DATEN\Berufsschule\Modul 287 - Websites mit CSS gestalten\Projekt_Demir_\Bilder" />
+      <recent name="C:\_DATEN\Berufsschule\Modul 287 - Websites mit CSS gestalten\Projekt_Demir_" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddbdd1c7-d455-41c7-94d0-7e1c6a52f53f" name="Changes" comment="" />
+      <created>1656424644446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656424644446</updated>
+      <workItem from="1656424645874" duration="1734000" />
+      <workItem from="1656429226052" duration="801000" />
+      <workItem from="1656443783956" duration="2914000" />
+      <workItem from="1656523744423" duration="13310000" />
+      <workItem from="1656538123047" duration="421000" />
+      <workItem from="1656567097392" duration="3252000" />
+      <workItem from="1656607362262" duration="328000" />
+      <workItem from="1656607697324" duration="6988000" />
+      <workItem from="1656656193530" duration="4481000" />
+      <workItem from="1656842703923" duration="4932000" />
+      <workItem from="1656914188262" duration="3677000" />
+      <workItem from="1656939455030" duration="1279000" />
+      <workItem from="1656960629101" duration="2061000" />
+    </task>
+    <task id="LOCAL-00001" summary="File beiträge gemacht, Seiten verlinkt und angefangen Verbesserungen gemacht.">
+      <created>1656445634823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656445634823</updated>
+    </task>
+    <task id="LOCAL-00002" summary="V">
+      <created>1656582652873</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656582652873</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Text und Googel Maps eingefügt. Anpassungen gemacht - V">
+      <created>1656619528754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656619528754</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Text und Googel Maps eingefügt. Anpassungen gemacht - V">
+      <created>1656666227160</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656666227160</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Text und Googel Maps eingefügt. Anpassungen gemacht - V">
+      <created>1656666307920</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656666307920</updated>
+    </task>
+    <task id="LOCAL-00006" summary="V5">
+      <created>1656669078717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656669078717</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="File beiträge gemacht, Seiten verlinkt und angefangen Verbesserungen gemacht." />
+    <MESSAGE value="V" />
+    <MESSAGE value="Text und Googel Maps eingefügt. Anpassungen gemacht - V" />
+    <MESSAGE value="V5" />
+    <option name="LAST_COMMIT_MESSAGE" value="V5" />
+  </component>
+</project>
